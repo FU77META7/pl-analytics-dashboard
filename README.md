@@ -6,8 +6,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18+-3F4F75?logo=plotly&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-Kaggle%20%7C%20FBref-green)
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pl-analytics-dashboard-ad1tya-g.streamlit.app)
 ---
+
+## 🌐 Live Demo
+👉 **[pl-analytics-dashboard-ad1tya-g.streamlit.app](https://pl-analytics-dashboard-ad1tya-g.streamlit.app)**
+___
 
 ## What This Dashboard Does
 
