@@ -1,0 +1,449 @@
+player,team,pos,age,nineties,goals,assists,xg,xa,progressive_passes,progressive_carries,goal_contributions,goals_per90,assists_per90,xg_per90,xa_per90,xg_overperformance,position_group
+Max Aarons,Bournemouth,DF,23.0,13.7,0,1,0.0,0.8,43.0,22.0,1,0.0,0.07,0.0,0.06,0.0,Defender
+Bénie Adama Traore,Sheffield Utd,FW,20.0,4.3,0,0,0.3,0.5,9.0,7.0,0,0.0,0.0,0.06,0.13,-0.3,Forward
+Tosin Adarabioyo,Fulham,DF,25.0,18.0,2,0,0.7,0.1,62.0,10.0,2,0.11,0.0,0.04,0.01,1.3,Defender
+Elijah Adebayo,Luton Town,FW,25.0,15.8,10,0,5.9,0.7,23.0,16.0,10,0.63,0.0,0.37,0.04,4.1,Forward
+Simon Adingra,Brighton,FW,21.0,24.7,6,1,4.3,3.7,50.0,111.0,7,0.24,0.04,0.17,0.15,1.7,Forward
+Nayef Aguerd,West Ham,DF,27.0,20.6,1,0,1.5,0.3,68.0,10.0,1,0.05,0.0,0.07,0.01,-0.5,Defender
+Naouirou Ahamada,Crystal Palace,MF,21.0,3.9,0,0,0.5,0.0,25.0,19.0,0,0.0,0.0,0.13,0.01,-0.5,Midfielder
+Anel Ahmedhodžić,Sheffield Utd,DF,24.0,29.4,2,0,3.1,0.8,43.0,15.0,2,0.07,0.0,0.11,0.03,-1.1,Defender
+Ola Aina,Nott'ham Forest,DF,26.0,18.8,1,1,0.3,0.9,68.0,53.0,2,0.05,0.05,0.01,0.05,0.7,Defender
+Rayan Aït-Nouri,Wolves,DF,22.0,25.9,2,1,3.3,2.4,99.0,67.0,3,0.08,0.04,0.13,0.09,-1.3,Defender
+Kristoffer Ajer,Brentford,DF,25.0,20.4,2,1,1.3,2.3,61.0,22.0,3,0.1,0.05,0.06,0.11,0.7,Defender
+Manuel Akanji,Manchester City,DF,28.0,27.9,2,0,1.9,0.5,148.0,46.0,2,0.07,0.0,0.07,0.02,0.1,Defender
+Nathan Aké,Manchester City,DF,28.0,22.7,2,2,2.5,1.2,116.0,24.0,4,0.09,0.09,0.11,0.05,-0.5,Defender
+Trent Alexander-Arnold,Liverpool,DF,24.0,23.9,3,4,2.6,7.2,205.0,45.0,7,0.13,0.17,0.11,0.3,0.4,Defender
+Alisson,Liverpool,GK,30.0,28.0,0,0,0.0,0.0,5.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Miguel Almirón,Newcastle Utd,FW,29.0,21.5,3,1,4.5,2.6,78.0,78.0,4,0.14,0.05,0.21,0.12,-1.5,Forward
+Edson Álvarez,West Ham,MF,25.0,26.4,1,1,1.3,0.6,91.0,20.0,2,0.04,0.04,0.05,0.02,-0.3,Midfielder
+Julián Álvarez,Manchester City,MF,23.0,29.4,11,8,13.0,6.4,103.0,64.0,19,0.37,0.27,0.44,0.22,-2.0,Midfielder
+Zeki Amdouni,Burnley,FW,22.0,21.7,5,1,5.8,1.4,49.0,63.0,6,0.23,0.05,0.27,0.07,-0.8,Forward
+Sofyan Amrabat,Manchester Utd,MF,26.0,10.4,0,0,0.1,0.3,66.0,6.0,0,0.0,0.0,0.01,0.03,-0.1,Midfielder
+Joachim Andersen,Crystal Palace,DF,27.0,37.9,2,3,1.7,2.8,147.0,21.0,5,0.05,0.08,0.04,0.07,0.3,Defender
+Elliot Anderson,Newcastle Utd,MF,20.0,11.4,0,2,1.5,1.9,57.0,37.0,2,0.0,0.18,0.13,0.17,-1.5,Midfielder
+Michail Antonio,West Ham,FW,33.0,18.8,6,2,5.8,0.9,22.0,48.0,8,0.32,0.11,0.31,0.05,0.2,Forward
+Antony,Manchester Utd,FW,23.0,14.7,1,1,3.4,2.8,64.0,53.0,2,0.07,0.07,0.23,0.19,-2.4,Forward
+Oliver Arblaster,Sheffield Utd,MF,19.0,10.5,0,0,0.0,0.7,43.0,13.0,0,0.0,0.0,0.0,0.07,0.0,Midfielder
+Cameron Archer,Sheffield Utd,FW,22.0,20.4,4,1,5.5,2.8,15.0,33.0,5,0.2,0.05,0.27,0.14,-1.5,Forward
+Alphonse Areola,West Ham,GK,30.0,30.0,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Lorenz Assignon,Burnley,DF,23.0,13.7,1,2,0.4,2.6,34.0,38.0,3,0.07,0.15,0.03,0.19,0.6,Defender
+Serge Aurier,Nott'ham Forest,DF,30.0,9.3,0,2,0.2,0.5,47.0,10.0,2,0.0,0.22,0.02,0.05,-0.2,Defender
+Taiwo Awoniyi,Nott'ham Forest,FW,25.0,11.6,6,3,4.7,1.7,14.0,8.0,9,0.52,0.26,0.41,0.15,1.3,Forward
+Jordan Ayew,Crystal Palace,FW,31.0,28.3,4,7,3.9,4.2,63.0,74.0,11,0.14,0.25,0.14,0.15,0.1,Forward
+Benoît Badiashile,Chelsea,DF,22.0,14.9,0,1,0.3,1.5,46.0,3.0,1,0.0,0.07,0.02,0.1,-0.3,Defender
+Leon Bailey,Aston Villa,MF,25.0,23.0,10,9,6.3,9.2,82.0,102.0,19,0.44,0.39,0.27,0.4,3.7,Midfielder
+George Baldock,Sheffield Utd,DF,30.0,10.8,0,1,0.0,0.8,31.0,9.0,1,0.0,0.09,0.0,0.07,0.0,Defender
+Carlos Baleba,Brighton,MF,19.0,14.7,0,0,0.8,0.3,50.0,19.0,0,0.0,0.0,0.06,0.02,-0.8,Midfielder
+Valentín Barco,Brighton,DF,19.0,3.4,0,0,0.2,0.2,14.0,8.0,0,0.0,0.0,0.05,0.07,-0.2,Defender
+Ross Barkley,Luton Town,MF,29.0,29.1,5,4,4.1,3.7,163.0,48.0,9,0.17,0.14,0.14,0.13,0.9,Midfielder
+Harvey Barnes,Newcastle Utd,FW,25.0,8.9,5,3,3.6,3.2,34.0,45.0,8,0.56,0.34,0.4,0.36,1.4,Forward
+Chris Basham,Sheffield Utd,DF,35.0,3.6,0,0,0.1,0.3,7.0,1.0,0,0.0,0.0,0.04,0.07,-0.1,Defender
+Calvin Bassey,Fulham,DF,23.0,25.6,1,0,0.3,0.0,62.0,15.0,1,0.04,0.0,0.01,0.0,0.7,Defender
+Amari'i Bell,Luton Town,DF,29.0,19.1,0,0,0.3,0.5,76.0,32.0,0,0.0,0.0,0.01,0.02,-0.3,Defender
+Jean-Ricner Bellegarde,Wolves,MF,25.0,10.6,2,1,1.6,1.0,39.0,30.0,3,0.19,0.09,0.15,0.09,0.4,Midfielder
+Anis Ben Slimane,Sheffield Utd,MF,22.0,4.7,0,0,0.8,0.3,12.0,3.0,0,0.0,0.0,0.17,0.06,-0.8,Midfielder
+Saïd Benrahma,West Ham,FW,27.0,6.9,0,1,1.8,1.4,28.0,28.0,1,0.0,0.15,0.27,0.21,-1.8,Forward
+Rodrigo Bentancur,Tottenham,MF,26.0,11.2,1,1,1.9,0.5,72.0,16.0,2,0.09,0.09,0.17,0.04,-0.9,Midfielder
+Daniel Bentley,Wolves,GK,30.0,4.3,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Jóhann Berg Guðmundsson,Burnley,MF,32.0,13.2,1,3,1.9,2.7,59.0,13.0,4,0.08,0.23,0.14,0.2,-0.9,Midfielder
+Sander Berge,Burnley,MF,25.0,33.4,1,2,1.9,2.4,164.0,64.0,3,0.03,0.06,0.06,0.07,-0.9,Midfielder
+Luke Berry,Luton Town,MF,31.0,3.6,2,1,1.0,0.3,8.0,1.0,3,0.56,0.28,0.28,0.07,1.0,Midfielder
+Beto,Everton,FW,25.0,10.6,3,0,6.8,0.9,14.0,14.0,3,0.28,0.0,0.64,0.09,-3.8,Forward
+Jordan Beyer,Burnley,DF,23.0,13.7,0,1,0.5,0.3,25.0,9.0,1,0.0,0.07,0.04,0.02,-0.5,Defender
+Philip Billing,Bournemouth,MF,27.0,15.5,2,2,2.5,3.2,53.0,22.0,4,0.13,0.13,0.16,0.21,-0.5,Midfielder
+Yves Bissouma,Tottenham,MF,26.0,23.0,0,0,1.4,0.4,169.0,43.0,0,0.0,0.0,0.06,0.02,-1.4,Midfielder
+Oscar Bobb,Manchester City,FW,20.0,3.4,1,1,1.4,1.2,25.0,13.0,2,0.3,0.3,0.41,0.37,-0.4,Forward
+Jayden Bogle,Sheffield Utd,DF,23.0,31.0,3,0,2.3,1.0,60.0,38.0,3,0.1,0.0,0.07,0.03,0.7,Defender
+Willy Boly,Nott'ham Forest,DF,32.0,16.0,2,1,1.5,1.3,32.0,4.0,3,0.13,0.06,0.09,0.08,0.5,Defender
+Sven Botman,Newcastle Utd,DF,23.0,15.3,2,2,0.6,1.0,35.0,0.0,4,0.13,0.13,0.04,0.07,1.4,Defender
+Jarrod Bowen,West Ham,FW,26.0,33.5,16,6,11.6,5.5,52.0,90.0,22,0.48,0.18,0.35,0.16,4.4,Forward
+Conor Bradley,Liverpool,DF,20.0,8.4,1,3,0.9,1.5,29.0,35.0,4,0.12,0.36,0.1,0.17,0.1,Defender
+Jarrad Branthwaite,Everton,DF,21.0,34.6,3,0,1.7,1.0,74.0,2.0,3,0.09,0.0,0.05,0.03,1.3,Defender
+Ben Brereton,Sheffield Utd,FW,24.0,12.3,6,1,6.1,1.5,37.0,23.0,7,0.49,0.08,0.49,0.12,-0.1,Forward
+Rhian Brewster,Sheffield Utd,FW,23.0,3.8,0,0,0.4,0.1,3.0,1.0,0,0.0,0.0,0.09,0.03,-0.4,Forward
+Armando Broja,Chelsea,FW,21.0,5.0,1,0,2.4,0.2,6.0,11.0,1,0.2,0.0,0.47,0.03,-1.4,Forward
+Andre Brooks,Sheffield Utd,MF,19.0,10.4,0,0,0.4,0.1,18.0,12.0,0,0.0,0.0,0.04,0.01,-0.4,Midfielder
+David Brooks,Bournemouth,FW,26.0,3.1,1,1,2.2,1.0,21.0,8.0,2,0.32,0.32,0.7,0.33,-1.2,Forward
+Jacob Brown,Luton Town,MF,25.0,11.3,2,0,2.8,0.7,19.0,25.0,2,0.18,0.0,0.25,0.06,-0.8,Midfielder
+Josh Brownhill,Burnley,MF,27.0,25.0,4,2,1.9,2.1,90.0,19.0,6,0.16,0.08,0.08,0.08,2.1,Midfielder
+Jacob Bruun Larsen,Burnley,MF,24.0,13.9,6,0,5.0,1.5,38.0,61.0,6,0.43,0.0,0.36,0.1,1.0,Midfielder
+Hugo Bueno,Wolves,DF,20.0,8.2,0,0,0.3,0.8,8.0,22.0,0,0.0,0.0,0.03,0.09,-0.3,Defender
+Santiago Bueno,Wolves,DF,24.0,9.1,0,0,0.0,0.1,11.0,3.0,0,0.0,0.0,0.0,0.01,0.0,Defender
+Facundo Buonanotte,Brighton,FW,18.0,15.2,3,1,2.4,1.8,42.0,23.0,4,0.2,0.07,0.16,0.12,0.6,Forward
+Reece Burke,Luton Town,DF,26.0,18.4,0,4,1.3,1.4,67.0,11.0,4,0.0,0.22,0.07,0.07,-1.3,Defender
+Dan Burn,Newcastle Utd,DF,31.0,30.3,2,2,3.1,1.1,75.0,14.0,4,0.07,0.07,0.1,0.04,-1.1,Defender
+Moisés Caicedo,Chelsea,MF,21.0,31.8,1,3,0.4,2.6,173.0,27.0,4,0.03,0.09,0.01,0.08,0.6,Midfielder
+Tom Cairney,Fulham,MF,32.0,16.5,1,4,1.1,2.3,145.0,35.0,5,0.06,0.24,0.07,0.14,-0.1,Midfielder
+Dominic Calvert-Lewin,Everton,FW,26.0,24.1,7,2,12.9,3.1,31.0,36.0,9,0.29,0.08,0.54,0.13,-5.9,Forward
+Diego Carlos,Aston Villa,DF,30.0,20.2,0,0,1.9,0.1,59.0,4.0,0,0.0,0.0,0.1,0.0,-1.9,Defender
+Casemiro,Manchester Utd,MF,31.0,22.0,1,2,3.5,1.0,112.0,12.0,3,0.05,0.09,0.16,0.05,-2.5,Midfielder
+Matty Cash,Aston Villa,DF,25.0,23.8,2,2,4.2,2.3,88.0,62.0,4,0.08,0.08,0.18,0.1,-2.2,Defender
+Timothy Castagne,Fulham,DF,27.0,29.3,1,3,1.6,1.9,77.0,48.0,4,0.03,0.1,0.06,0.07,-0.6,Defender
+Trevoh Chalobah,Chelsea,DF,24.0,10.6,1,0,0.2,0.1,31.0,5.0,1,0.09,0.0,0.02,0.01,0.8,Defender
+Ben Chilwell,Chelsea,DF,26.0,8.4,0,1,1.2,2.2,25.0,22.0,1,0.0,0.12,0.14,0.26,-1.2,Defender
+Tahith Chong,Luton Town,MF,23.0,22.0,4,0,2.7,0.5,72.0,57.0,4,0.18,0.0,0.12,0.02,1.3,Midfielder
+Ryan Christie,Bournemouth,MF,28.0,32.3,0,5,2.3,5.4,167.0,60.0,5,0.0,0.15,0.07,0.17,-2.3,Midfielder
+Jordan Clark,Luton Town,MF,29.0,14.5,1,1,1.0,1.3,51.0,21.0,2,0.07,0.07,0.07,0.09,0.0,Midfielder
+Nathaniel Clyne,Crystal Palace,DF,32.0,14.9,0,0,0.2,0.2,33.0,10.0,0,0.0,0.0,0.01,0.01,-0.2,Defender
+Séamus Coleman,Everton,DF,34.0,7.4,0,0,0.0,1.0,22.0,5.0,0,0.0,0.0,0.0,0.14,0.0,Defender
+Nathan Collins,Brentford,DF,22.0,29.5,1,1,1.7,2.2,97.0,11.0,2,0.03,0.03,0.06,0.07,-0.7,Defender
+Levi Colwill,Chelsea,DF,20.0,20.0,1,1,1.3,1.2,73.0,23.0,2,0.05,0.05,0.06,0.06,-0.3,Defender
+Lewis Cook,Bournemouth,MF,26.0,31.0,0,3,0.4,4.3,142.0,22.0,3,0.0,0.1,0.01,0.14,-0.4,Midfielder
+Vladimír Coufal,West Ham,DF,30.0,34.8,0,7,0.3,4.0,119.0,68.0,7,0.0,0.2,0.01,0.11,-0.3,Defender
+Aaron Cresswell,West Ham,DF,33.0,4.8,0,0,0.0,0.4,26.0,4.0,0,0.0,0.0,0.0,0.09,0.0,Defender
+Marc Cucurella,Chelsea,DF,25.0,19.8,0,2,1.1,1.1,50.0,31.0,2,0.0,0.1,0.06,0.05,-1.1,Defender
+Josh Cullen,Burnley,MF,27.0,22.9,2,3,0.6,1.8,123.0,22.0,5,0.09,0.13,0.03,0.08,1.4,Midfielder
+Matheus Cunha,Wolves,FW,24.0,27.1,12,7,9.5,3.2,87.0,107.0,19,0.44,0.26,0.35,0.12,2.5,Forward
+Mahmoud Dahoud,Brighton,MF,27.0,5.0,0,1,0.2,0.9,11.0,4.0,1,0.0,0.2,0.04,0.18,-0.2,Midfielder
+Ameen Al-Dakhil,Burnley,DF,21.0,11.7,1,0,1.3,0.1,35.0,7.0,1,0.09,0.0,0.11,0.01,-0.3,Defender
+Diogo Dalot,Manchester Utd,DF,24.0,35.3,2,3,1.7,2.9,124.0,52.0,5,0.06,0.09,0.05,0.08,0.3,Defender
+Mikkel Damsgaard,Brentford,MF,23.0,9.4,0,2,0.9,1.4,61.0,16.0,2,0.0,0.21,0.1,0.16,-0.9,Midfielder
+Danilo,Nott'ham Forest,MF,22.0,19.9,2,2,1.8,1.5,83.0,22.0,4,0.1,0.1,0.09,0.08,0.2,Midfielder
+Arnaut Danjuma,Everton,MF,26.0,6.6,1,0,2.6,1.1,9.0,24.0,1,0.15,0.0,0.4,0.17,-1.6,Midfielder
+David Datro Fofana,Burnley,FW,20.0,9.8,4,1,4.5,1.8,15.0,21.0,5,0.41,0.1,0.46,0.19,-0.5,Forward
+Ben Davies,Tottenham,DF,30.0,12.1,1,0,2.3,0.4,71.0,13.0,1,0.08,0.0,0.19,0.03,-1.3,Defender
+Craig Dawson,Wolves,DF,33.0,24.5,1,1,1.5,1.4,49.0,1.0,2,0.04,0.04,0.06,0.06,-0.5,Defender
+Kevin De Bruyne,Manchester City,MF,32.0,13.6,4,10,2.4,11.5,111.0,47.0,14,0.29,0.74,0.18,0.85,1.6,Midfielder
+Hannes Delcroix,Burnley,DF,24.0,6.5,0,0,0.4,0.2,18.0,2.0,0,0.0,0.0,0.05,0.03,-0.4,Defender
+Moussa Diaby,Aston Villa,FW,24.0,24.2,6,8,7.0,6.6,72.0,94.0,14,0.25,0.33,0.29,0.27,-1.0,Forward
+Amad Diallo,Manchester Utd,FW,21.0,4.3,1,1,0.5,1.1,10.0,11.0,2,0.23,0.23,0.12,0.24,0.5,Forward
+Rúben Dias,Manchester City,DF,26.0,28.4,0,0,1.4,0.3,173.0,34.0,0,0.0,0.0,0.05,0.01,-1.4,Defender
+Luis Díaz,Liverpool,FW,26.0,29.2,8,5,11.9,5.7,113.0,137.0,13,0.27,0.17,0.41,0.19,-3.9,Forward
+Lucas Digne,Aston Villa,DF,30.0,26.8,1,3,1.1,4.1,77.0,42.0,4,0.04,0.11,0.04,0.15,-0.1,Defender
+Issa Diop,Fulham,DF,26.0,15.8,0,0,0.3,0.0,66.0,11.0,0,0.0,0.0,0.02,0.0,-0.3,Defender
+Axel Disasi,Chelsea,DF,25.0,28.7,2,0,2.4,0.3,112.0,30.0,2,0.07,0.0,0.08,0.01,-0.4,Defender
+Matt Doherty,Wolves,DF,31.0,12.8,1,0,0.8,1.3,31.0,12.0,1,0.08,0.0,0.07,0.1,0.2,Defender
+Jeremy Doku,Manchester City,FW,21.0,17.7,3,8,2.5,4.6,57.0,218.0,11,0.17,0.45,0.14,0.26,0.5,Forward
+Nicolás Domínguez,Nott'ham Forest,MF,25.0,16.6,2,2,1.3,1.0,91.0,14.0,4,0.12,0.12,0.08,0.06,0.7,Midfielder
+Abdoulaye Doucouré,Everton,FW,30.0,29.2,7,1,8.8,2.9,97.0,55.0,8,0.24,0.03,0.3,0.1,-1.8,Forward
+Cheick Doucouré,Crystal Palace,MF,23.0,10.2,0,0,0.3,0.7,49.0,9.0,0,0.0,0.0,0.03,0.07,-0.3,Midfielder
+Alfie Doughty,Luton Town,DF,23.0,32.5,2,8,1.3,6.3,106.0,94.0,10,0.06,0.25,0.04,0.19,0.7,Defender
+Tommy Doyle,Wolves,MF,21.0,13.6,0,0,0.4,0.4,81.0,21.0,0,0.0,0.0,0.03,0.03,-0.4,Midfielder
+Radu Drăgușin,Tottenham,DF,21.0,4.8,0,0,0.1,0.0,8.0,5.0,0,0.0,0.0,0.03,0.0,-0.1,Defender
+Martin Dúbravka,Newcastle Utd,GK,34.0,22.1,0,0,0.0,0.1,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Lewis Dunk,Brighton,DF,31.0,31.9,3,1,3.1,0.9,152.0,33.0,4,0.09,0.03,0.1,0.03,-0.1,Defender
+Jhon Durán,Aston Villa,FW,19.0,5.3,5,0,2.0,0.3,9.0,9.0,5,0.95,0.0,0.38,0.06,3.0,Forward
+Ederson,Manchester City,GK,29.0,30.9,0,0,0.0,0.1,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Odsonne Édouard,Crystal Palace,FW,25.0,17.3,7,0,6.2,1.2,36.0,33.0,7,0.41,0.0,0.36,0.07,0.8,Forward
+John Egan,Sheffield Utd,DF,30.0,5.4,0,0,0.2,0.0,5.0,0.0,0,0.0,0.0,0.03,0.0,-0.2,Defender
+Hjalmar Ekdal,Burnley,DF,24.0,4.9,0,0,0.1,0.1,11.0,5.0,0,0.0,0.0,0.01,0.01,-0.1,Defender
+Anthony Elanga,Nott'ham Forest,FW,21.0,27.0,5,9,6.6,6.7,49.0,98.0,14,0.18,0.33,0.24,0.25,-1.6,Forward
+Harvey Elliott,Liverpool,MF,20.0,15.0,3,6,2.7,3.5,128.0,44.0,9,0.2,0.4,0.18,0.23,0.3,Midfielder
+Emerson,Tottenham,DF,24.0,12.9,1,0,0.2,0.4,57.0,21.0,1,0.08,0.0,0.02,0.03,0.8,Defender
+Julio Enciso,Brighton,MF,19.0,5.3,0,2,1.4,1.7,21.0,28.0,2,0.0,0.38,0.27,0.32,-1.4,Midfielder
+Wataru Endo,Liverpool,MF,30.0,19.1,1,0,0.5,1.7,101.0,10.0,1,0.05,0.0,0.03,0.09,0.5,Midfielder
+Christian Eriksen,Manchester Utd,MF,31.0,12.7,1,2,1.0,2.3,68.0,20.0,3,0.08,0.16,0.08,0.18,0.0,Midfielder
+Maxime Estève,Burnley,DF,21.0,14.5,0,0,0.3,0.0,40.0,15.0,0,0.0,0.0,0.02,0.0,-0.3,Defender
+Pervis Estupiñán,Brighton,DF,25.0,13.8,2,3,1.0,3.5,83.0,47.0,5,0.14,0.22,0.07,0.25,1.0,Defender
+Jonny Evans,Manchester Utd,DF,35.0,15.5,0,1,0.1,1.2,37.0,7.0,1,0.0,0.06,0.0,0.08,-0.1,Defender
+Eberechi Eze,Crystal Palace,MF,25.0,22.8,11,4,9.1,5.2,93.0,68.0,15,0.48,0.18,0.4,0.23,1.9,Midfielder
+Łukasz Fabiański,West Ham,GK,38.0,8.0,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Ansu Fati,Brighton,MF,20.0,5.8,2,0,3.4,0.8,28.0,16.0,2,0.35,0.0,0.59,0.14,-1.4,Midfielder
+Felipe,Nott'ham Forest,DF,34.0,4.2,0,0,0.1,0.1,6.0,1.0,0,0.0,0.0,0.03,0.01,-0.1,Defender
+Evan Ferguson,Brighton,FW,18.0,15.2,6,0,4.6,0.5,15.0,13.0,6,0.4,0.0,0.3,0.04,1.4,Forward
+Bruno Fernandes,Manchester Utd,MF,28.0,34.6,10,8,10.0,11.8,297.0,86.0,18,0.29,0.23,0.29,0.34,0.0,Midfielder
+Enzo Fernández,Chelsea,MF,22.0,24.5,3,2,6.2,3.4,210.0,52.0,5,0.12,0.08,0.25,0.14,-3.2,Midfielder
+Mark Flekken,Brentford,GK,30.0,36.5,0,1,0.0,0.5,5.0,0.0,1,0.0,0.03,0.0,0.01,0.0,Goalkeeper
+Phil Foden,Manchester City,FW,23.0,31.7,19,8,10.3,8.4,168.0,93.0,27,0.6,0.25,0.33,0.26,8.7,Forward
+Wes Foderingham,Sheffield Utd,GK,32.0,29.4,0,0,0.0,0.1,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Pablo Fornals,West Ham,MF,27.0,4.7,0,0,0.3,0.3,29.0,4.0,0,0.0,0.0,0.07,0.07,-0.3,Midfielder
+Lyle Foster,Burnley,FW,22.0,21.1,5,3,4.5,1.9,37.0,55.0,8,0.24,0.14,0.21,0.09,0.5,Forward
+Cody Gakpo,Liverpool,FW,24.0,18.3,8,5,9.0,2.9,83.0,43.0,13,0.44,0.27,0.49,0.16,-1.0,Forward
+Conor Gallagher,Chelsea,MF,23.0,34.8,5,7,4.2,5.0,172.0,62.0,12,0.14,0.2,0.12,0.15,0.8,Midfielder
+Idrissa Gana Gueye,Everton,MF,33.0,20.9,4,0,1.3,1.1,83.0,29.0,4,0.19,0.0,0.06,0.05,2.7,Midfielder
+Alejandro Garnacho,Manchester Utd,FW,19.0,28.5,7,4,8.4,5.1,62.0,178.0,11,0.25,0.14,0.29,0.18,-1.4,Forward
+James Garner,Everton,MF,22.0,33.4,1,2,2.7,4.6,100.0,36.0,3,0.03,0.06,0.08,0.14,-1.7,Midfielder
+Saman Ghoddos,Brentford,DF,29.0,8.2,1,0,0.3,1.1,36.0,22.0,1,0.12,0.0,0.04,0.13,0.7,Defender
+Morgan Gibbs-White,Nott'ham Forest,MF,23.0,35.1,5,10,6.9,8.4,170.0,80.0,15,0.14,0.29,0.2,0.24,-1.9,Midfielder
+Billy Gilmour,Brighton,MF,22.0,23.6,0,1,1.0,2.0,193.0,39.0,1,0.0,0.04,0.04,0.09,-1.0,Midfielder
+Ben Godfrey,Everton,DF,25.0,12.4,0,0,1.7,0.3,43.0,11.0,0,0.0,0.0,0.14,0.02,-1.7,Defender
+André Gomes,Everton,MF,30.0,5.6,1,0,0.3,0.4,36.0,8.0,1,0.18,0.0,0.05,0.07,0.7,Midfielder
+João Gomes,Wolves,MF,22.0,29.4,2,1,1.7,1.1,101.0,28.0,3,0.07,0.03,0.06,0.04,0.3,Midfielder
+Toti Gomes,Wolves,DF,24.0,30.8,1,3,1.6,1.2,79.0,22.0,4,0.03,0.1,0.05,0.04,-0.6,Defender
+Joe Gomez,Liverpool,DF,26.0,19.8,0,1,0.8,1.3,100.0,44.0,1,0.0,0.05,0.04,0.07,-0.8,Defender
+Anthony Gordon,Newcastle Utd,FW,22.0,32.1,11,10,10.2,8.0,101.0,138.0,21,0.34,0.31,0.32,0.25,0.8,Forward
+Ryan Gravenberch,Liverpool,MF,21.0,12.5,1,0,2.0,0.9,78.0,39.0,1,0.08,0.0,0.16,0.07,-1.0,Midfielder
+Ivo Grbić,Sheffield Utd,GK,27.0,8.6,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Jack Grealish,Manchester City,FW,27.0,11.2,3,1,2.1,2.5,50.0,87.0,4,0.27,0.09,0.19,0.22,0.9,Forward
+Pascal Groß,Brighton,MF,32.0,34.6,4,10,6.5,8.1,302.0,83.0,14,0.12,0.29,0.19,0.24,-2.5,Midfielder
+Marc Guéhi,Crystal Palace,DF,23.0,22.5,0,1,0.6,0.6,67.0,15.0,1,0.0,0.04,0.03,0.03,-0.6,Defender
+Bruno Guimarães,Newcastle Utd,MF,25.0,36.3,7,8,4.8,6.4,283.0,65.0,15,0.19,0.22,0.13,0.18,2.2,Midfielder
+Malo Gusto,Chelsea,DF,20.0,19.5,0,6,0.9,4.3,86.0,78.0,6,0.0,0.31,0.05,0.22,-0.9,Defender
+Joško Gvardiol,Manchester City,DF,21.0,25.9,4,1,3.1,1.4,136.0,63.0,5,0.15,0.04,0.12,0.06,0.9,Defender
+Erling Haaland,Manchester City,FW,23.0,28.4,27,5,29.2,4.3,26.0,35.0,32,0.95,0.18,1.03,0.15,-2.2,Forward
+Lewis Hall,Newcastle Utd,DF,18.0,8.7,1,0,0.3,0.3,46.0,19.0,1,0.12,0.0,0.04,0.03,0.7,Defender
+Gustavo Hamer,Sheffield Utd,MF,26.0,32.3,4,6,3.0,6.1,135.0,36.0,10,0.12,0.19,0.09,0.19,1.0,Midfielder
+Jack Harrison,Everton,MF,26.0,24.6,3,3,3.6,3.4,62.0,65.0,6,0.12,0.12,0.14,0.14,-0.6,Midfielder
+Daiki Hashioka,Luton Town,DF,24.0,6.6,0,0,0.1,0.7,21.0,3.0,0,0.0,0.0,0.02,0.1,-0.1,Defender
+Kai Havertz,Arsenal,MF,24.0,29.3,13,7,12.3,4.4,99.0,55.0,20,0.44,0.24,0.42,0.15,0.7,Midfielder
+Jan Paul van Hecke,Brighton,DF,23.0,26.3,0,0,1.2,0.9,147.0,25.0,0,0.0,0.0,0.05,0.03,-1.2,Defender
+Hwang Hee-chan,Wolves,FW,27.0,23.5,12,3,7.7,3.0,37.0,37.0,15,0.51,0.13,0.33,0.13,4.3,Forward
+Dean Henderson,Crystal Palace,GK,26.0,18.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Rico Henry,Brentford,DF,26.0,4.5,0,1,0.1,1.0,20.0,13.0,1,0.0,0.22,0.02,0.22,-0.1,Defender
+Son Heung-min,Tottenham,FW,31.0,32.6,17,10,12.0,11.8,139.0,119.0,27,0.52,0.31,0.37,0.36,5.0,Forward
+Aaron Hickey,Brentford,DF,21.0,7.9,0,0,0.2,0.1,21.0,9.0,0,0.0,0.0,0.03,0.01,-0.2,Defender
+Jack Hinshelwood,Brighton,DF,18.0,9.7,3,0,1.9,0.7,19.0,16.0,3,0.31,0.0,0.19,0.07,1.1,Defender
+Mason Holgate,Sheffield Utd,DF,26.0,7.9,0,0,0.6,0.4,13.0,0.0,0,0.0,0.0,0.08,0.05,-0.6,Defender
+Callum Hudson-Odoi,Nott'ham Forest,FW,22.0,20.6,8,1,2.7,2.8,58.0,111.0,9,0.39,0.05,0.13,0.14,5.3,Forward
+Will Hughes,Crystal Palace,MF,28.0,21.0,0,1,0.3,1.1,76.0,14.0,1,0.0,0.05,0.02,0.05,-0.3,Midfielder
+Pierre Højbjerg,Tottenham,MF,27.0,14.6,0,0,0.7,1.2,134.0,17.0,0,0.0,0.0,0.05,0.08,-0.7,Midfielder
+Rasmus Højlund,Manchester Utd,FW,20.0,24.0,10,2,7.6,1.6,33.0,36.0,12,0.42,0.08,0.32,0.07,2.4,Forward
+Igor,Brighton,DF,25.0,18.2,0,0,0.3,0.7,107.0,30.0,0,0.0,0.0,0.02,0.04,-0.3,Defender
+Danny Ings,West Ham,FW,31.0,4.5,1,0,1.3,0.3,8.0,7.0,1,0.22,0.0,0.28,0.06,-0.3,Forward
+Alexander Isak,Newcastle Utd,FW,23.0,25.1,21,2,20.3,3.7,71.0,68.0,23,0.84,0.08,0.81,0.15,0.7,Forward
+Alex Iwobi,Fulham,FW,27.0,24.4,5,2,5.3,4.7,147.0,109.0,7,0.21,0.08,0.22,0.19,-0.3,Forward
+Nicolas Jackson,Chelsea,FW,22.0,31.1,14,5,18.6,4.3,67.0,70.0,19,0.45,0.16,0.6,0.14,-4.6,Forward
+Reece James,Chelsea,DF,23.0,4.7,0,2,0.3,1.7,21.0,19.0,2,0.0,0.43,0.07,0.37,-0.3,Defender
+Vitaly Janelt,Brentford,MF,25.0,33.9,1,3,1.8,4.8,123.0,25.0,4,0.03,0.09,0.05,0.14,-0.8,Midfielder
+Mathias Jensen,Brentford,MF,27.0,24.5,3,3,0.7,4.0,123.0,19.0,6,0.12,0.12,0.03,0.16,2.3,Midfielder
+Gabriel Jesus,Arsenal,FW,26.0,16.4,4,5,6.3,3.8,42.0,38.0,9,0.24,0.3,0.39,0.23,-2.3,Forward
+Raúl Jiménez,Fulham,FW,32.0,15.5,7,0,5.2,1.5,24.0,11.0,7,0.45,0.0,0.33,0.1,1.8,Forward
+João Pedro,Brighton,FW,21.0,22.7,9,3,11.9,3.8,92.0,83.0,12,0.4,0.13,0.53,0.17,-2.9,Forward
+Joelinton,Newcastle Utd,MF,26.0,14.2,2,1,3.1,2.8,56.0,29.0,3,0.14,0.07,0.22,0.2,-1.1,Midfielder
+Ryan John Giles,Luton Town,DF,23.0,5.6,0,0,0.1,0.2,17.0,9.0,0,0.0,0.0,0.02,0.04,-0.1,Defender
+Ben Johnson,West Ham,DF,23.0,6.0,0,0,0.2,0.0,22.0,17.0,0,0.0,0.0,0.03,0.0,-0.2,Defender
+Brennan Johnson,Tottenham,FW,22.0,23.2,5,10,10.3,8.1,72.0,97.0,15,0.22,0.43,0.44,0.35,-5.3,Forward
+Sam Johnstone,Crystal Palace,GK,30.0,20.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Curtis Jones,Liverpool,MF,22.0,13.0,1,1,2.6,0.7,74.0,31.0,2,0.08,0.08,0.2,0.05,-1.6,Midfielder
+Jorginho,Arsenal,MF,31.0,10.2,0,2,0.1,1.4,101.0,8.0,2,0.0,0.2,0.01,0.13,-0.1,Midfielder
+Diogo Jota,Liverpool,FW,26.0,12.7,10,3,5.3,3.3,34.0,54.0,13,0.79,0.24,0.42,0.26,4.7,Forward
+Mads Juel Andersen,Luton Town,DF,25.0,4.4,1,0,0.3,0.0,7.0,0.0,1,0.23,0.0,0.06,0.0,0.7,Defender
+Mathias Jørgensen,Brentford,DF,33.0,12.1,1,0,0.7,0.9,50.0,5.0,1,0.08,0.0,0.06,0.08,0.3,Defender
+Issa Kaboré,Luton Town,DF,22.0,19.2,0,2,0.2,2.1,54.0,60.0,2,0.0,0.1,0.01,0.11,-0.2,Defender
+Boubacar Kamara,Aston Villa,MF,23.0,18.4,0,1,0.1,1.3,83.0,19.0,1,0.0,0.05,0.01,0.07,-0.1,Midfielder
+Willy Kambwala,Manchester Utd,DF,18.0,3.7,0,0,0.0,0.0,8.0,2.0,0,0.0,0.0,0.0,0.0,0.0,Defender
+Thomas Kaminski,Luton Town,GK,30.0,37.8,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Michael Keane,Everton,DF,30.0,4.9,1,0,0.7,0.0,14.0,4.0,1,0.21,0.0,0.14,0.0,0.3,Defender
+Caoimhín Kelleher,Liverpool,GK,24.0,10.0,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Lloyd Kelly,Bournemouth,DF,24.0,17.3,0,1,0.3,1.2,56.0,15.0,1,0.0,0.06,0.02,0.07,-0.3,Defender
+Milos Kerkez,Bournemouth,DF,19.0,21.9,0,1,1.2,0.8,44.0,46.0,1,0.0,0.05,0.06,0.04,-1.2,Defender
+Max Kilman,Wolves,DF,26.0,38.0,2,0,1.8,1.4,117.0,22.0,2,0.05,0.0,0.05,0.04,0.2,Defender
+Jakub Kiwior,Arsenal,DF,23.0,10.5,1,3,0.8,0.9,55.0,4.0,4,0.1,0.29,0.08,0.09,0.2,Defender
+Justin Kluivert,Bournemouth,MF,24.0,21.3,7,1,6.2,1.9,50.0,65.0,8,0.33,0.05,0.29,0.09,0.8,Midfielder
+Luca Koleosho,Burnley,MF,18.0,10.8,1,1,2.0,1.3,19.0,53.0,2,0.09,0.09,0.18,0.12,-1.0,Midfielder
+Ibrahima Konaté,Liverpool,DF,24.0,17.5,0,0,0.7,0.4,118.0,24.0,0,0.0,0.0,0.04,0.02,-0.7,Defender
+Ezri Konsa,Aston Villa,DF,25.0,34.1,1,0,2.5,0.5,136.0,37.0,1,0.03,0.0,0.07,0.02,-1.5,Defender
+Mateo Kovačić,Manchester City,MF,29.0,17.2,1,0,1.3,1.6,100.0,37.0,1,0.06,0.0,0.07,0.09,-0.3,Midfielder
+Emil Krafth,Newcastle Utd,DF,28.0,10.1,0,0,0.2,1.0,29.0,12.0,0,0.0,0.0,0.02,0.1,-0.2,Defender
+Mohammed Kudus,West Ham,FW,22.0,27.6,8,6,5.1,3.5,80.0,117.0,14,0.29,0.22,0.19,0.13,2.9,Forward
+Dejan Kulusevski,Tottenham,FW,23.0,30.7,8,3,4.7,7.7,144.0,151.0,11,0.26,0.1,0.15,0.25,3.3,Forward
+Adam Lallana,Brighton,MF,35.0,9.4,0,1,0.8,1.7,39.0,9.0,1,0.0,0.11,0.09,0.18,-0.8,Midfielder
+Tariq Lamptey,Brighton,DF,22.0,10.2,0,3,0.4,1.2,17.0,39.0,3,0.0,0.3,0.04,0.12,-0.4,Defender
+Yasser Larouci,Sheffield Utd,DF,22.0,5.9,0,0,0.2,0.3,14.0,18.0,0,0.0,0.0,0.04,0.05,-0.2,Defender
+Jamaal Lascelles,Newcastle Utd,DF,29.0,12.0,1,0,0.7,0.1,31.0,8.0,1,0.08,0.0,0.06,0.01,0.3,Defender
+Mario Lemina,Wolves,MF,29.0,33.0,4,1,4.6,1.5,76.0,32.0,5,0.12,0.03,0.14,0.05,-0.6,Midfielder
+Clément Lenglet,Aston Villa,DF,28.0,12.8,0,1,0.9,0.8,51.0,26.0,1,0.0,0.08,0.07,0.06,-0.9,Defender
+Bernd Leno,Fulham,GK,31.0,38.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Jefferson Lerma,Crystal Palace,MF,28.0,26.7,1,1,2.7,2.2,106.0,14.0,2,0.04,0.04,0.1,0.08,-1.7,Midfielder
+Rico Lewis,Manchester City,DF,18.0,9.0,2,0,0.6,1.1,33.0,21.0,2,0.22,0.0,0.07,0.12,1.4,Defender
+Keane Lewis-Potter,Brentford,FW,22.0,16.0,3,1,6.3,1.7,32.0,56.0,4,0.19,0.06,0.39,0.11,-3.3,Forward
+Victor Lindelöf,Manchester Utd,DF,29.0,14.8,1,1,0.8,0.3,40.0,17.0,2,0.07,0.07,0.05,0.02,0.2,Defender
+Valentino Livramento,Newcastle Utd,DF,20.0,14.6,1,0,0.4,0.8,61.0,44.0,1,0.07,0.0,0.03,0.05,0.6,Defender
+Giovani Lo Celso,Tottenham,MF,27.0,5.6,2,2,0.6,1.9,68.0,25.0,4,0.36,0.36,0.1,0.34,1.4,Midfielder
+Tom Lockyer,Luton Town,DF,28.0,13.0,1,1,1.1,0.6,37.0,6.0,2,0.08,0.08,0.08,0.05,-0.1,Defender
+Sean Longstaff,Newcastle Utd,MF,25.0,30.5,6,2,6.6,2.3,145.0,24.0,8,0.2,0.07,0.22,0.07,-0.6,Midfielder
+Max Lowe,Sheffield Utd,DF,26.0,5.6,0,0,0.6,0.7,12.0,5.0,0,0.0,0.0,0.1,0.13,-0.6,Defender
+Douglas Luiz,Aston Villa,MF,25.0,33.3,9,5,6.9,5.4,168.0,60.0,14,0.27,0.15,0.21,0.16,2.1,Midfielder
+Saša Lukić,Fulham,MF,26.0,12.5,1,0,1.6,0.8,43.0,12.0,1,0.08,0.0,0.13,0.06,-0.6,Midfielder
+Alexis Mac Allister,Liverpool,MF,24.0,28.9,5,5,3.7,3.6,209.0,44.0,10,0.17,0.17,0.13,0.12,1.3,Midfielder
+James Maddison,Tottenham,MF,26.0,23.7,4,9,6.4,5.9,224.0,58.0,13,0.17,0.38,0.27,0.25,-2.4,Midfielder
+Noni Madueke,Chelsea,FW,21.0,11.7,5,2,2.5,2.6,52.0,76.0,7,0.43,0.17,0.21,0.23,2.5,Forward
+Gabriel Magalhães,Arsenal,DF,25.0,33.8,4,0,4.3,0.7,117.0,13.0,4,0.12,0.0,0.13,0.02,-0.3,Defender
+Harry Maguire,Manchester Utd,DF,30.0,18.4,2,2,2.0,1.2,73.0,20.0,4,0.11,0.11,0.11,0.07,0.0,Defender
+Kobbie Mainoo,Manchester Utd,MF,18.0,21.4,3,1,0.9,0.7,64.0,25.0,4,0.14,0.05,0.04,0.03,2.1,Midfielder
+Orel Mangala,Nott'ham Forest,MF,25.0,17.4,1,0,0.8,0.2,45.0,13.0,1,0.06,0.0,0.05,0.01,0.2,Midfielder
+Solly March,Brighton,FW,29.0,6.2,3,1,2.0,1.0,24.0,14.0,4,0.49,0.16,0.32,0.16,1.0,Forward
+Anthony Martial,Manchester Utd,FW,27.0,5.0,1,0,1.2,0.2,12.0,6.0,1,0.2,0.0,0.25,0.05,-0.2,Forward
+Gabriel Martinelli,Arsenal,FW,22.0,22.4,6,4,6.8,6.1,65.0,127.0,10,0.27,0.18,0.31,0.27,-0.8,Forward
+Emiliano Martínez,Aston Villa,GK,30.0,33.5,0,0,0.0,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Lisandro Martínez,Manchester Utd,DF,25.0,7.2,0,1,0.0,0.1,28.0,8.0,1,0.0,0.14,0.0,0.01,0.0,Defender
+Pape Matar Sarr,Tottenham,MF,20.0,23.0,3,3,3.4,2.2,150.0,43.0,6,0.13,0.13,0.15,0.1,-0.4,Midfielder
+Jean-Philippe Mateta,Crystal Palace,FW,26.0,25.4,16,5,10.9,3.1,25.0,29.0,21,0.63,0.2,0.43,0.12,5.1,Forward
+Joël Matip,Liverpool,DF,31.0,8.7,0,0,0.5,0.1,34.0,8.0,0,0.0,0.0,0.06,0.01,-0.5,Defender
+Neal Maupay,Brentford,FW,26.0,14.7,6,3,5.7,2.3,37.0,21.0,9,0.41,0.2,0.39,0.16,0.3,Forward
+Konstantinos Mavropanos,West Ham,DF,25.0,16.7,1,0,1.2,0.2,38.0,10.0,1,0.06,0.0,0.07,0.01,-0.2,Defender
+Bryan Mbeumo,Brentford,FW,23.0,21.8,9,6,9.8,4.6,88.0,74.0,15,0.41,0.28,0.45,0.21,-0.8,Forward
+James Mcatee,Sheffield Utd,MF,20.0,20.2,3,3,3.1,2.9,51.0,55.0,6,0.15,0.15,0.15,0.15,-0.1,Midfielder
+Oliver McBurnie,Sheffield Utd,FW,27.0,14.2,6,3,6.9,2.0,30.0,6.0,9,0.42,0.21,0.48,0.14,-0.9,Forward
+John McGinn,Aston Villa,MF,28.0,33.3,6,4,5.0,4.6,189.0,59.0,10,0.18,0.12,0.15,0.14,1.0,Midfielder
+Scott McKenna,Nott'ham Forest,DF,26.0,4.6,0,0,0.2,0.2,10.0,1.0,0,0.0,0.0,0.05,0.04,-0.2,Defender
+Dwight McNeil,Everton,MF,23.0,32.1,3,6,3.4,8.8,114.0,80.0,9,0.09,0.19,0.11,0.27,-0.4,Midfielder
+Scott McTominay,Manchester Utd,MF,26.0,21.1,7,1,5.7,0.8,64.0,29.0,8,0.33,0.05,0.27,0.04,1.3,Midfielder
+Ben Mee,Brentford,DF,33.0,14.1,2,0,1.5,0.3,49.0,11.0,2,0.14,0.0,0.1,0.02,0.5,Defender
+Teden Mengi,Luton Town,DF,21.0,27.4,1,0,0.6,0.3,54.0,15.0,1,0.04,0.0,0.02,0.01,0.4,Defender
+Chris Mepham,Bournemouth,DF,25.0,6.9,0,1,0.1,0.4,25.0,4.0,1,0.0,0.15,0.01,0.06,-0.1,Defender
+Lewis Miley,Newcastle Utd,MF,17.0,13.4,1,3,1.2,1.7,53.0,14.0,4,0.07,0.22,0.09,0.13,-0.2,Midfielder
+James Milner,Brighton,DF,37.0,8.6,0,2,0.3,1.8,69.0,11.0,2,0.0,0.23,0.03,0.21,-0.3,Defender
+Tyrick Mitchell,Crystal Palace,DF,23.0,35.6,2,3,1.6,2.8,94.0,32.0,5,0.06,0.08,0.04,0.08,0.4,Defender
+Kaoru Mitoma,Brighton,FW,26.0,16.5,3,4,3.5,2.7,64.0,121.0,7,0.18,0.24,0.21,0.16,-0.5,Forward
+Jakub Moder,Brighton,MF,24.0,6.9,0,0,0.6,0.8,23.0,10.0,0,0.0,0.0,0.08,0.11,-0.6,Midfielder
+Gonzalo Montiel,Nott'ham Forest,DF,26.0,8.9,0,2,0.1,1.4,28.0,10.0,2,0.0,0.22,0.01,0.15,-0.1,Defender
+Álex Moreno,Aston Villa,DF,30.0,11.5,2,0,1.1,1.1,24.0,32.0,2,0.17,0.0,0.1,0.1,0.9,Defender
+Carlton Morris,Luton Town,FW,27.0,31.8,11,4,11.4,2.8,56.0,37.0,15,0.35,0.13,0.36,0.09,-0.4,Forward
+Mason Mount,Manchester Utd,MF,24.0,5.7,1,0,0.4,0.3,21.0,9.0,1,0.17,0.0,0.07,0.06,0.6,Midfielder
+Mykhailo Mudryk,Chelsea,FW,22.0,17.5,5,2,4.4,4.1,45.0,92.0,7,0.29,0.11,0.25,0.23,0.6,Forward
+Rodrigo Muniz,Fulham,FW,22.0,17.7,9,1,8.7,2.0,19.0,8.0,10,0.51,0.06,0.49,0.12,0.3,Forward
+Daniel Muñoz,Crystal Palace,DF,27.0,16.0,0,4,1.2,2.4,38.0,25.0,4,0.0,0.25,0.08,0.15,-1.2,Defender
+Arijanet Muric,Burnley,GK,24.0,10.0,0,0,0.0,0.2,1.0,0.0,0,0.0,0.0,0.0,0.02,0.0,Goalkeeper
+Murillo,Nott'ham Forest,DF,21.0,31.0,0,2,1.8,1.2,89.0,22.0,2,0.0,0.06,0.06,0.04,-1.8,Defender
+Jacob Murphy,Newcastle Utd,FW,28.0,13.2,3,7,2.1,5.0,52.0,33.0,10,0.23,0.53,0.16,0.37,0.9,Forward
+Vitaliy Mykolenko,Everton,DF,24.0,27.4,2,0,1.5,0.9,55.0,14.0,2,0.07,0.0,0.06,0.03,0.5,Defender
+Marvelous Nakamba,Luton Town,MF,29.0,12.6,0,0,0.2,0.4,36.0,1.0,0,0.0,0.0,0.01,0.03,-0.2,Midfielder
+Reiss Nelson,Arsenal,FW,23.0,3.0,0,0,0.2,0.6,5.0,9.0,0,0.0,0.0,0.07,0.2,-0.2,Forward
+Neto,Bournemouth,GK,34.0,32.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Pedro Neto,Wolves,FW,23.0,16.8,2,9,3.5,4.4,54.0,98.0,11,0.12,0.53,0.21,0.26,-1.5,Forward
+Moussa Niakhate,Nott'ham Forest,DF,27.0,16.2,1,0,1.1,0.1,39.0,13.0,1,0.06,0.0,0.07,0.01,-0.1,Defender
+Eddie Nketiah,Arsenal,FW,24.0,12.0,5,2,4.5,0.8,20.0,22.0,7,0.42,0.17,0.38,0.07,0.5,Forward
+Christopher Nkunku,Chelsea,FW,25.0,4.9,3,0,2.3,0.2,19.0,10.0,3,0.61,0.0,0.47,0.05,0.7,Forward
+Oliver Norwood,Sheffield Utd,MF,32.0,16.0,1,0,1.1,0.6,73.0,3.0,1,0.06,0.0,0.07,0.04,-0.1,Midfielder
+Matheus Nunes,Manchester City,MF,24.0,7.3,0,2,0.8,1.1,34.0,28.0,2,0.0,0.27,0.11,0.15,-0.8,Midfielder
+Darwin Núñez,Liverpool,FW,24.0,22.7,11,8,16.3,6.0,54.0,58.0,19,0.48,0.35,0.72,0.27,-5.3,Forward
+Christian Nørgaard,Brentford,MF,29.0,27.8,2,1,3.5,1.9,161.0,15.0,3,0.07,0.04,0.12,0.07,-1.5,Midfielder
+Dara O'Shea,Burnley,DF,24.0,32.1,3,4,0.7,2.0,122.0,32.0,7,0.09,0.12,0.02,0.06,2.3,Defender
+Wilson Odobert,Burnley,MF,18.0,23.3,3,2,2.8,3.3,58.0,102.0,5,0.13,0.09,0.12,0.14,0.2,Midfielder
+Chiedozie Ogbene,Luton Town,MF,26.0,22.2,4,1,4.2,3.1,53.0,127.0,5,0.18,0.05,0.19,0.14,-0.2,Midfielder
+Angelo Ogbonna,West Ham,DF,35.0,7.1,0,0,0.0,0.0,4.0,2.0,0,0.0,0.0,0.01,0.0,0.0,Defender
+Michael Olise,Crystal Palace,FW,21.0,14.2,10,6,5.5,5.8,78.0,68.0,16,0.71,0.42,0.39,0.41,4.5,Forward
+Robin Olsen,Aston Villa,GK,33.0,4.5,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Andrew Omobamidele,Nott'ham Forest,DF,21.0,8.7,0,0,0.1,0.1,8.0,1.0,0,0.0,0.0,0.02,0.01,-0.1,Defender
+Amadou Onana,Everton,MF,21.0,23.2,2,0,2.0,2.7,107.0,21.0,2,0.09,0.0,0.09,0.11,0.0,Midfielder
+André Onana,Manchester Utd,GK,27.0,38.0,0,0,0.0,0.1,5.0,1.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Fred Onyedinma,Luton Town,DF,26.0,4.5,0,0,0.2,0.1,6.0,9.0,0,0.0,0.0,0.04,0.02,-0.2,Defender
+Frank Onyeka,Brentford,MF,25.0,12.9,1,2,2.2,1.8,33.0,17.0,3,0.08,0.16,0.17,0.14,-1.2,Midfielder
+Divock Origi,Nott'ham Forest,FW,28.0,6.7,0,1,1.4,2.1,14.0,19.0,1,0.0,0.15,0.21,0.31,-1.4,Forward
+Stefan Ortega,Manchester City,GK,30.0,7.1,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Ben Osborn,Sheffield Utd,DF,28.0,15.2,0,2,0.2,0.9,55.0,16.0,2,0.0,0.13,0.01,0.06,-0.2,Defender
+Gabriel Osho,Luton Town,DF,24.0,20.5,2,0,1.1,0.1,37.0,10.0,2,0.1,0.0,0.05,0.01,0.9,Defender
+William Osula,Sheffield Utd,FW,19.0,8.7,0,0,1.6,0.1,2.0,7.0,0,0.0,0.0,0.19,0.01,-1.6,Forward
+Dango Ouattara,Bournemouth,FW,21.0,13.7,1,2,2.6,1.5,35.0,47.0,3,0.07,0.15,0.19,0.11,-1.6,Forward
+João Palhinha,Fulham,MF,28.0,30.0,4,1,3.3,0.8,97.0,8.0,5,0.13,0.03,0.11,0.03,0.7,Midfielder
+Cole Palmer,Chelsea,FW,21.0,29.0,22,11,18.2,11.1,197.0,117.0,33,0.76,0.38,0.63,0.38,3.8,Forward
+Emerson Palmieri,West Ham,DF,28.0,34.9,1,2,1.5,2.4,125.0,59.0,3,0.03,0.06,0.04,0.07,-0.5,Defender
+Lucas Paquetá,West Ham,FW,25.0,29.1,4,6,5.4,5.4,187.0,34.0,10,0.14,0.21,0.18,0.18,-1.4,Forward
+Thomas Partey,Arsenal,MF,30.0,8.8,0,0,0.4,0.3,72.0,15.0,0,0.0,0.0,0.05,0.03,-0.4,Midfielder
+Nathan Patterson,Everton,DF,21.0,11.2,0,2,0.3,1.7,38.0,17.0,2,0.0,0.18,0.03,0.15,-0.3,Defender
+Andreas Pereira,Fulham,MF,27.0,29.0,3,7,4.6,7.1,138.0,56.0,10,0.1,0.24,0.16,0.24,-1.6,Midfielder
+Đorđe Petrović,Chelsea,GK,23.0,22.1,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Kalvin Phillips,West Ham,MF,27.0,3.4,0,0,0.1,0.0,19.0,3.0,0,0.0,0.0,0.02,0.0,-0.1,Midfielder
+Jordan Pickford,Everton,GK,29.0,38.0,0,0,0.0,0.1,6.0,1.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Ethan Pinnock,Brentford,DF,30.0,28.0,2,0,2.0,1.0,61.0,11.0,2,0.07,0.0,0.07,0.04,0.0,Defender
+Nick Pope,Newcastle Utd,GK,31.0,14.9,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Pedro Porro,Tottenham,DF,23.0,34.3,3,7,2.9,7.2,194.0,57.0,10,0.09,0.2,0.09,0.21,0.1,Defender
+Jarell Quansah,Liverpool,DF,20.0,13.2,2,0,1.0,0.1,67.0,13.0,2,0.15,0.0,0.08,0.01,1.0,Defender
+Aaron Ramsdale,Arsenal,GK,25.0,6.0,0,0,0.0,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Aaron Ramsey,Burnley,MF,20.0,5.9,0,0,0.3,0.4,8.0,8.0,0,0.0,0.0,0.06,0.07,-0.3,Midfielder
+Jacob Ramsey,Aston Villa,FW,22.0,9.5,1,1,2.2,1.0,28.0,33.0,2,0.11,0.11,0.23,0.11,-1.2,Forward
+Marcus Rashford,Manchester Utd,FW,25.0,25.2,7,2,7.4,2.3,65.0,95.0,9,0.28,0.08,0.29,0.09,-0.4,Forward
+David Raya,Arsenal,GK,27.0,32.0,0,0,0.0,0.0,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Tim Ream,Fulham,DF,35.0,16.7,1,0,1.0,0.0,65.0,11.0,1,0.06,0.0,0.06,0.0,0.0,Defender
+Harrison Reed,Fulham,MF,28.0,14.7,0,2,0.3,1.1,56.0,10.0,2,0.0,0.14,0.02,0.07,-0.3,Midfielder
+Sergio Reguilón,Manchester Utd,DF,26.0,4.6,0,0,0.2,0.7,27.0,11.0,0,0.0,0.0,0.04,0.16,-0.2,Defender
+Sergio Reguilón,Brentford,DF,26.0,12.4,0,4,0.8,2.8,38.0,34.0,4,0.0,0.32,0.06,0.23,-0.8,Defender
+Bobby Reid,Fulham,FW,30.0,15.8,6,2,4.6,1.8,47.0,35.0,8,0.38,0.13,0.28,0.11,1.4,Forward
+Declan Rice,Arsenal,MF,24.0,35.8,7,8,3.3,5.3,278.0,75.0,15,0.2,0.22,0.09,0.15,3.7,Midfielder
+Chris Richards,Crystal Palace,DF,23.0,23.3,1,1,0.6,0.4,43.0,1.0,2,0.04,0.04,0.03,0.02,0.4,Defender
+Richarlison,Tottenham,FW,26.0,16.6,11,4,9.6,2.1,38.0,26.0,15,0.66,0.24,0.58,0.13,1.4,Forward
+Connor Roberts,Burnley,DF,27.0,9.1,0,1,0.0,0.2,38.0,6.0,1,0.0,0.11,0.0,0.02,0.0,Defender
+Andrew Robertson,Liverpool,DF,29.0,18.8,3,2,1.9,5.4,140.0,63.0,5,0.16,0.11,0.1,0.29,1.1,Defender
+Antonee Robinson,Fulham,DF,25.0,36.3,0,6,0.7,4.2,129.0,99.0,6,0.0,0.17,0.02,0.11,-0.7,Defender
+Jack Robinson,Sheffield Utd,DF,29.0,32.1,1,1,1.2,1.2,63.0,8.0,2,0.03,0.03,0.04,0.04,-0.2,Defender
+Rodri,Manchester City,MF,27.0,32.6,8,9,4.1,3.9,376.0,76.0,17,0.25,0.28,0.12,0.12,3.9,Midfielder
+Jay Rodriguez,Burnley,FW,34.0,9.1,2,1,3.5,0.2,17.0,2.0,3,0.22,0.11,0.38,0.02,-1.5,Forward
+Mads Roerslev,Brentford,DF,24.0,22.1,1,2,0.9,1.8,43.0,18.0,3,0.05,0.09,0.04,0.08,0.1,Defender
+Morgan Rogers,Aston Villa,MF,21.0,7.1,3,1,1.4,0.6,28.0,22.0,4,0.42,0.14,0.19,0.09,1.6,Midfielder
+Cristian Romero,Tottenham,DF,25.0,31.0,5,0,3.5,0.4,179.0,32.0,5,0.16,0.0,0.11,0.01,1.5,Defender
+Joe Rothwell,Bournemouth,MF,28.0,4.3,0,0,0.1,0.2,20.0,6.0,0,0.0,0.0,0.02,0.06,-0.1,Midfielder
+Pelly Ruddock Mpanzu,Luton Town,MF,30.0,12.2,0,0,0.6,0.4,34.0,10.0,0,0.0,0.0,0.05,0.04,-0.6,Midfielder
+José Sá,Wolves,GK,30.0,33.7,0,1,0.0,0.0,1.0,0.0,1,0.0,0.03,0.0,0.0,0.0,Goalkeeper
+Bukayo Saka,Arsenal,FW,21.0,32.4,16,9,15.5,10.5,126.0,155.0,25,0.49,0.28,0.48,0.32,0.5,Forward
+Mohamed Salah,Liverpool,FW,31.0,28.2,18,10,21.2,11.8,147.0,98.0,28,0.64,0.36,0.75,0.42,-3.2,Forward
+William Saliba,Arsenal,DF,22.0,38.0,2,1,1.6,0.2,157.0,16.0,3,0.05,0.03,0.04,0.01,0.4,Defender
+Albert Sambi Lokonga,Luton Town,MF,23.0,14.5,1,3,0.6,1.4,72.0,29.0,4,0.07,0.21,0.04,0.1,0.4,Midfielder
+Robert Sánchez,Chelsea,GK,25.0,15.9,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Ibrahim Sangaré,Nott'ham Forest,MF,25.0,11.5,0,0,0.6,0.4,44.0,5.0,0,0.0,0.0,0.06,0.03,-0.6,Midfielder
+Pablo Sarabia,Wolves,MF,31.0,19.4,4,7,5.5,5.9,109.0,41.0,11,0.21,0.36,0.28,0.3,-1.5,Midfielder
+Kevin Schade,Brentford,FW,21.0,3.7,2,1,1.2,0.7,9.0,8.0,3,0.54,0.27,0.32,0.19,0.8,Forward
+Fabian Schär,Newcastle Utd,DF,31.0,33.9,4,1,2.5,0.7,133.0,28.0,5,0.12,0.03,0.07,0.02,1.5,Defender
+Jeffrey Schlupp,Crystal Palace,FW,30.0,15.0,2,2,1.8,2.3,33.0,20.0,4,0.13,0.13,0.12,0.15,0.2,Forward
+Alex Scott,Bournemouth,MF,19.0,11.3,1,1,0.7,1.7,50.0,24.0,2,0.09,0.09,0.06,0.15,0.3,Midfielder
+Matz Sels,Nott'ham Forest,GK,31.0,16.0,0,0,0.0,0.1,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Nélson Semedo,Wolves,DF,29.0,34.3,0,1,1.3,1.7,138.0,103.0,1,0.0,0.03,0.04,0.05,-1.3,Defender
+Antoine Semenyo,Bournemouth,FW,23.0,23.4,8,2,4.6,3.2,64.0,89.0,10,0.34,0.09,0.2,0.14,3.4,Forward
+Marcos Senesi,Bournemouth,DF,26.0,24.9,4,5,2.0,1.7,127.0,31.0,9,0.16,0.2,0.08,0.07,2.0,Defender
+Luke Shaw,Manchester Utd,DF,28.0,10.7,0,0,0.0,1.0,45.0,10.0,0,0.0,0.0,0.0,0.09,0.0,Defender
+Bernardo Silva,Manchester City,MF,28.0,28.6,6,9,3.7,7.6,177.0,140.0,15,0.21,0.31,0.13,0.27,2.3,Midfielder
+Thiago Silva,Chelsea,DF,38.0,28.1,3,1,0.8,1.0,102.0,2.0,4,0.11,0.04,0.03,0.04,2.2,Defender
+Luis Sinisterra,Bournemouth,FW,24.0,7.8,2,2,2.5,2.4,38.0,51.0,4,0.26,0.26,0.33,0.31,-0.5,Forward
+Oliver Skipp,Tottenham,MF,22.0,7.9,0,0,0.7,0.6,37.0,8.0,0,0.0,0.0,0.09,0.07,-0.7,Midfielder
+Adam Smith,Bournemouth,DF,32.0,23.9,0,2,0.1,1.3,89.0,24.0,2,0.0,0.08,0.0,0.05,-0.1,Defender
+Emile Smith Rowe,Arsenal,MF,23.0,3.9,0,1,2.0,0.2,23.0,11.0,1,0.0,0.25,0.5,0.06,-2.0,Midfielder
+Dominic Solanke,Bournemouth,FW,25.0,36.9,19,3,19.6,3.0,60.0,52.0,22,0.51,0.08,0.53,0.08,-0.6,Forward
+Tomáš Souček,West Ham,MF,28.0,31.9,7,2,6.7,1.7,86.0,7.0,9,0.22,0.06,0.21,0.05,0.3,Midfielder
+Vinicius Souza,Sheffield Utd,MF,24.0,29.6,1,0,0.6,0.2,66.0,7.0,1,0.03,0.0,0.02,0.01,0.4,Midfielder
+Jason Steele,Brighton,GK,32.0,17.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Raheem Sterling,Chelsea,FW,28.0,22.0,8,4,6.5,4.5,78.0,120.0,12,0.36,0.18,0.29,0.2,1.5,Forward
+John Stones,Manchester City,DF,29.0,11.8,1,0,1.0,0.2,57.0,16.0,1,0.08,0.0,0.09,0.02,0.0,Defender
+Dominik Szoboszlai,Liverpool,MF,22.0,23.4,3,2,3.7,5.8,152.0,75.0,5,0.13,0.09,0.16,0.25,-0.7,Midfielder
+James Tarkowski,Everton,DF,30.0,38.0,1,1,2.6,2.5,130.0,15.0,2,0.03,0.03,0.07,0.06,-1.6,Defender
+Nuno Tavares,Nott'ham Forest,DF,23.0,5.1,0,0,0.2,0.5,24.0,14.0,0,0.0,0.0,0.03,0.1,-0.2,Defender
+Marcus Tavernier,Bournemouth,FW,24.0,23.5,3,4,3.9,5.2,84.0,79.0,7,0.13,0.17,0.17,0.22,-0.9,Forward
+Charlie Taylor,Burnley,DF,29.0,25.9,1,1,0.2,1.2,82.0,36.0,2,0.04,0.04,0.01,0.05,0.8,Defender
+Kenny Tete,Fulham,DF,27.0,9.6,1,0,0.9,0.4,54.0,20.0,1,0.1,0.0,0.09,0.04,0.1,Defender
+Luke Thomas,Sheffield Utd,DF,22.0,10.2,0,0,0.5,0.1,33.0,8.0,0,0.0,0.0,0.05,0.0,-0.5,Defender
+Youri Tielemans,Aston Villa,MF,26.0,18.0,2,6,1.3,2.6,128.0,23.0,8,0.11,0.33,0.07,0.14,0.7,Midfielder
+Harry Toffolo,Nott'ham Forest,DF,27.0,16.2,1,3,1.6,1.5,42.0,10.0,4,0.06,0.19,0.1,0.1,-0.6,Defender
+Takehiro Tomiyasu,Arsenal,DF,24.0,12.8,2,1,1.5,0.4,72.0,17.0,3,0.16,0.08,0.12,0.03,0.5,Defender
+Sandro Tonali,Newcastle Utd,MF,23.0,4.9,1,0,0.7,0.6,19.0,11.0,1,0.21,0.0,0.13,0.13,0.3,Midfielder
+Ivan Toney,Brentford,FW,27.0,16.1,4,2,6.0,1.5,40.0,23.0,6,0.25,0.12,0.37,0.09,-2.0,Forward
+Pau Torres,Aston Villa,DF,26.0,27.4,2,0,1.0,0.4,128.0,42.0,2,0.07,0.0,0.04,0.02,1.0,Defender
+Andros Townsend,Luton Town,MF,32.0,13.4,1,3,1.2,1.3,35.0,47.0,4,0.07,0.22,0.09,0.1,-0.2,Midfielder
+James Trafford,Burnley,GK,20.0,28.0,0,0,0.0,0.0,6.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Adama Traoré,Fulham,FW,27.0,4.2,2,3,1.5,0.7,16.0,29.0,5,0.48,0.72,0.36,0.17,0.5,Forward
+Boubacar Traoré,Wolves,MF,21.0,9.1,0,0,0.3,0.4,29.0,9.0,0,0.0,0.0,0.03,0.04,-0.3,Midfielder
+Mark Travers,Bournemouth,GK,24.0,4.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Mike Trésor,Burnley,FW,24.0,4.7,0,0,0.5,0.4,10.0,15.0,0,0.0,0.0,0.1,0.08,-0.5,Forward
+Kieran Trippier,Newcastle Utd,DF,32.0,24.8,1,10,0.7,7.5,157.0,34.0,11,0.04,0.4,0.03,0.3,0.3,Defender
+Leandro Trossard,Arsenal,FW,28.0,18.3,12,1,7.9,2.8,76.0,66.0,13,0.65,0.05,0.43,0.15,4.1,Forward
+Auston Trusty,Sheffield Utd,DF,24.0,28.6,0,0,0.4,1.1,40.0,10.0,0,0.0,0.0,0.01,0.04,-0.4,Defender
+Kostas Tsimikas,Liverpool,DF,27.0,7.5,0,3,0.1,1.0,31.0,24.0,3,0.0,0.4,0.01,0.14,-0.1,Defender
+Matt Turner,Nott'ham Forest,GK,29.0,17.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Destiny Udogie,Tottenham,DF,20.0,26.6,2,3,2.4,2.2,155.0,83.0,5,0.08,0.11,0.09,0.08,-0.4,Defender
+Lesley Ugochukwu,Chelsea,MF,19.0,3.3,0,0,0.0,0.1,17.0,8.0,0,0.0,0.0,0.0,0.03,0.0,Midfielder
+Enes Ünal,Bournemouth,FW,26.0,3.6,2,2,2.9,1.0,7.0,4.0,4,0.55,0.55,0.8,0.28,-0.9,Forward
+Virgil van Dijk,Liverpool,DF,32.0,35.3,2,2,2.8,1.6,200.0,32.0,4,0.06,0.06,0.08,0.04,-0.8,Defender
+Raphaël Varane,Manchester Utd,DF,30.0,15.3,1,0,1.3,0.1,59.0,16.0,1,0.07,0.0,0.08,0.0,-0.3,Defender
+Joël Veltman,Brighton,DF,31.0,17.6,1,1,0.4,0.5,85.0,24.0,2,0.06,0.06,0.02,0.03,0.6,Defender
+Micky van de Ven,Tottenham,DF,22.0,26.0,3,0,0.6,0.0,108.0,19.0,3,0.12,0.0,0.02,0.0,2.4,Defender
+Bart Verbruggen,Brighton,GK,20.0,21.0,0,0,0.0,0.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Guglielmo Vicario,Tottenham,GK,26.0,38.0,0,0,0.0,0.0,3.0,0.0,0,0.0,0.0,0.0,0.0,0.0,Goalkeeper
+Fabio Vieira,Arsenal,MF,23.0,3.3,1,2,1.3,1.6,15.0,12.0,3,0.3,0.61,0.38,0.49,-0.3,Midfielder
+Carlos Vinícius,Fulham,FW,28.0,3.5,2,0,1.6,0.8,3.0,3.0,2,0.57,0.0,0.46,0.23,0.4,Forward
+Vitinho,Burnley,DF,24.0,25.7,0,2,1.6,1.3,66.0,59.0,2,0.0,0.08,0.06,0.05,-1.6,Defender
+Odisseas Vlachodimos,Nott'ham Forest,GK,29.0,5.0,0,0,0.0,0.0,1.0,0.0,0,0.0,0.0,0.0,0.01,0.0,Goalkeeper
+Kyle Walker,Manchester City,DF,33.0,30.7,0,4,0.4,2.6,157.0,74.0,4,0.0,0.13,0.01,0.09,-0.4,Defender
+Aaron Wan-Bissaka,Manchester Utd,DF,25.0,19.8,0,2,0.1,1.5,77.0,30.0,2,0.0,0.1,0.01,0.08,-0.1,Defender
+Joel Ward,Crystal Palace,DF,33.0,22.0,0,1,0.9,0.2,66.0,16.0,1,0.0,0.05,0.04,0.01,-0.9,Defender
+James Ward-Prowse,West Ham,MF,28.0,33.3,7,7,6.0,7.8,144.0,18.0,14,0.21,0.21,0.18,0.23,1.0,Midfielder
+Ollie Watkins,Aston Villa,FW,27.0,35.7,19,13,16.8,7.3,55.0,62.0,32,0.53,0.36,0.47,0.21,2.2,Forward
+Adam Webster,Brighton,DF,28.0,12.7,0,0,0.4,0.1,80.0,16.0,0,0.0,0.0,0.03,0.01,-0.4,Defender
+Danny Welbeck,Brighton,FW,32.0,18.8,5,1,5.3,1.7,44.0,32.0,6,0.27,0.05,0.28,0.09,-0.3,Forward
+Timo Werner,Tottenham,FW,27.0,9.0,2,3,3.7,2.7,41.0,79.0,5,0.22,0.33,0.41,0.3,-1.7,Forward
+Adam Wharton,Crystal Palace,MF,19.0,14.4,0,3,0.3,2.4,79.0,14.0,3,0.0,0.21,0.02,0.17,-0.3,Midfielder
+Ben White,Arsenal,DF,25.0,33.2,4,4,1.2,3.8,192.0,44.0,8,0.12,0.12,0.03,0.11,2.8,Defender
+Neco Williams,Nott'ham Forest,DF,22.0,18.2,0,1,0.8,1.6,47.0,48.0,1,0.0,0.05,0.04,0.09,-0.8,Defender
+Willian,Fulham,FW,34.0,22.8,4,2,5.1,3.9,153.0,92.0,6,0.18,0.09,0.22,0.17,-1.1,Forward
+Joe Willock,Newcastle Utd,MF,23.0,4.7,1,0,0.8,0.6,17.0,16.0,1,0.21,0.0,0.17,0.12,0.2,Midfielder
+Callum Wilson,Newcastle Utd,FW,31.0,11.0,9,1,8.8,0.6,9.0,11.0,10,0.82,0.09,0.8,0.05,0.2,Forward
+Harry Wilson,Fulham,FW,26.0,18.0,4,6,3.4,3.5,60.0,41.0,10,0.22,0.33,0.19,0.19,0.6,Forward
+Yoane Wissa,Brentford,FW,26.0,27.7,12,3,10.6,3.9,48.0,45.0,15,0.43,0.11,0.38,0.14,1.4,Forward
+Chris Wood,Nott'ham Forest,FW,31.0,20.1,14,1,11.9,2.1,30.0,16.0,15,0.7,0.05,0.59,0.1,2.1,Forward
+Cauley Woodrow,Luton Town,FW,28.0,4.7,1,1,1.4,1.2,6.0,7.0,2,0.21,0.21,0.3,0.25,-0.4,Forward
+Joe Worrall,Nott'ham Forest,DF,26.0,4.9,0,0,0.1,0.2,8.0,0.0,0,0.0,0.0,0.02,0.04,-0.1,Defender
+Yehor Yarmoliuk,Brentford,MF,19.0,7.6,0,0,1.0,0.1,35.0,13.0,0,0.0,0.0,0.13,0.01,-1.0,Midfielder
+Ryan Yates,Nott'ham Forest,MF,25.0,22.1,1,1,2.6,0.8,73.0,18.0,2,0.05,0.05,0.12,0.04,-1.6,Midfielder
+Ashley Young,Everton,DF,38.0,25.3,0,0,0.6,1.5,82.0,40.0,0,0.0,0.0,0.02,0.06,-0.6,Defender
+Illia Zabarnyi,Bournemouth,DF,20.0,37.0,1,0,1.1,0.4,109.0,24.0,1,0.03,0.0,0.03,0.01,-0.1,Defender
+Nicolò Zaniolo,Aston Villa,FW,24.0,9.3,2,0,2.6,1.0,30.0,35.0,2,0.21,0.0,0.28,0.11,-0.6,Forward
+Oleksandr Zinchenko,Arsenal,DF,26.0,19.1,1,2,0.6,2.5,229.0,40.0,3,0.05,0.1,0.03,0.13,0.4,Defender
+Kurt Zouma,West Ham,DF,28.0,31.5,3,0,1.8,0.2,53.0,7.0,3,0.1,0.0,0.06,0.01,1.2,Defender
+Martin Ødegaard,Arsenal,MF,24.0,34.3,8,10,7.4,9.6,344.0,91.0,18,0.23,0.29,0.22,0.28,0.6,Midfielder
