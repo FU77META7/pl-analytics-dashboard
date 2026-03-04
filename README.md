@@ -9,7 +9,7 @@
 
 ---
 
-## 🔍 What This Dashboard Does
+## What This Dashboard Does
 
 This tool allows scouts, analysts, and football enthusiasts to:
 
@@ -20,7 +20,7 @@ This tool allows scouts, analysts, and football enthusiasts to:
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![Scatter Explorer](screenshots/scatter.png)
 ![Top Performers](screenshots/top_performers.png)
@@ -29,7 +29,7 @@ This tool allows scouts, analysts, and football enthusiasts to:
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 # 1. Clone the repo
@@ -78,7 +78,7 @@ pl-analytics-dashboard/
 
 ---
 
-## 📊 Features
+## Features
 
 ### Tab 1 — Scatter Explorer
 Interactive scatter plot with any two metrics on X/Y axes. Coloured by club, with average lines and full hover tooltips. Great for spotting outliers and hidden gems.
@@ -94,7 +94,7 @@ Club-level goals & assists breakdown, plus a full squad aggregation table with a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Tool | Purpose |
 |---|---|
@@ -105,7 +105,7 @@ Club-level goals & assists breakdown, plus a full squad aggregation table with a
 
 ---
 
-## 📐 Methodology
+## Methodology
 
 - All per-90 metrics normalised by `90s played` (minimum 3 x 90s filter applied)
 - xG overperformance = `Goals − xG` (positive = finishing above expectation)
@@ -115,7 +115,7 @@ Club-level goals & assists breakdown, plus a full squad aggregation table with a
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Add defensive metrics (tackles, interceptions, pressures)
 - [ ] Season-over-season comparison (2022/23 vs 2023/24)
@@ -124,7 +124,7 @@ Club-level goals & assists breakdown, plus a full squad aggregation table with a
 
 ---
 
-## 👤 Author
+## Author
 
 **Aditya Gaisamudre**  
 MSc Data Science — King's College London  
