@@ -9,7 +9,7 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pl-analytics-dashboard-ad1tya-g.streamlit.app)
 ---
 
-## 🌐 Live Demo
+## Live Demo
 👉 **[pl-analytics-dashboard-ad1tya-g.streamlit.app](https://pl-analytics-dashboard-ad1tya-g.streamlit.app)**
 ___
 
