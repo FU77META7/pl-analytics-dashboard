@@ -1,6 +1,6 @@
 # ⚽ Premier League Player Performance Dashboard
 
-> An interactive analytics dashboard for exploring Premier League 2023/24 player statistics — built with Streamlit, Plotly, and real match data.
+> An interactive analytics dashboard for exploring Premier League 2023/24 player statistics built with Streamlit, Plotly, and real match data.
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-red?logo=streamlit&logoColor=white)
@@ -113,7 +113,7 @@ Club-level goals & assists breakdown, plus a full squad aggregation table with a
 
 - All per-90 metrics normalised by `90s played` (minimum 3 x 90s filter applied)
 - xG overperformance = `Goals − xG` (positive = finishing above expectation)
-- Dashboard shows 1,184 player-attributed goals vs the official 1,246 total — the difference (~49) is own goals which are not attributed to any player in statistical databases, plus ~13 goals from players filtered out by the minimum appearances threshold
+- Dashboard shows 1,184 player-attributed goals vs the official 1,246 total the difference (~49) is own goals which are not attributed to any player in statistical databases, plus ~13 goals from players filtered out by the minimum appearances threshold
 - Club colours sourced from official Premier League brand guidelines
 - Data sourced from **FBref** (via Kaggle) the industry standard used by clubs and journalists
 
