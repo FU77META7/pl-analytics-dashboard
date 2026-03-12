@@ -59,7 +59,7 @@ python fetch_data.py
 streamlit run app.py
 ```
 
-The app also ships with a **built-in sample dataset of 24 real PL 2023/24 players** — if no CSV is found it falls back to this automatically so you can preview the dashboard immediately.
+The app also ships with a **built-in sample dataset of 24 real PL 2023/24 players** if no CSV is found it falls back to this automatically so you can preview the dashboard immediately.
 
 ---
 
@@ -84,16 +84,16 @@ pl-analytics-dashboard/
 
 ## Features
 
-### Tab 1 — Scatter Explorer
+### Tab 1: Scatter Explorer
 Interactive scatter plot with any two metrics on X/Y axes. Coloured by club, with average lines and full hover tooltips. Great for spotting outliers and hidden gems.
 
-### Tab 2 — Top Performers
+### Tab 2: Top Performers
 Horizontal bar chart ranking the top 15 players by any selected metric. Includes an xG vs Actual Goals plot highlighting over/underperformers.
 
-### Tab 3 — Radar Comparison
+### Tab 3: Radar Comparison
 Spider/radar chart comparing up to 3 players across 6 key metrics, normalised for fair comparison. Includes a stat breakdown table underneath.
 
-### Tab 4 — Club Overview
+### Tab 4: Club Overview
 Club-level goals & assists breakdown, plus a full squad aggregation table with average per-90 rates.
 
 ---
@@ -115,7 +115,7 @@ Club-level goals & assists breakdown, plus a full squad aggregation table with a
 - xG overperformance = `Goals − xG` (positive = finishing above expectation)
 - Dashboard shows 1,184 player-attributed goals vs the official 1,246 total — the difference (~49) is own goals which are not attributed to any player in statistical databases, plus ~13 goals from players filtered out by the minimum appearances threshold
 - Club colours sourced from official Premier League brand guidelines
-- Data sourced from **FBref** (via Kaggle) — the industry standard used by clubs and journalists
+- Data sourced from **FBref** (via Kaggle) the industry standard used by clubs and journalists
 
 ---
 
